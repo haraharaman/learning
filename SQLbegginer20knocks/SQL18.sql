@@ -1,0 +1,1 @@
+select min(price)as "最安価格" ,max(price) as "最高価格" from fruits;

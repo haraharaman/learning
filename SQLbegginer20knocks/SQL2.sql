@@ -1,0 +1,1 @@
+select name,production_area from fruits

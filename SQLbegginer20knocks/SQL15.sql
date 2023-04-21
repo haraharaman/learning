@@ -1,0 +1,1 @@
+select distinct name as "名前"from fruits;
